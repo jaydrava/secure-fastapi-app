@@ -1,0 +1,14 @@
+# Ignore common Python and environment files
+venv/
+__pycache__/
+.env
+*.pyc
+*.sqlite3
+*.log
+
+# Allow everything else
+!.gitignore
+!requirements.txt
+!alembic.ini
+!app/
+!alembic/
