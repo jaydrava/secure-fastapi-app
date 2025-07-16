@@ -31,7 +31,7 @@ secure_fastapi_app/
 ```
 ## 🐳 Docker Setup
 
-### ✅ Build and run locally with Docker Compose
+### ✅ Build and Run locally with Docker Compose
 
 ```bash
 # Step 1: Build and run the containers
